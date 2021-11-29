@@ -6,12 +6,12 @@
 - 🔮 Happy to learn
 - 🎈 Hobbies: ride bikes and meet friends
 
-<br>
 
 ### Connect
-[<img align="left" alt="kobe-wulteputte.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
+[<img align="left" alt="kobe-wulteputte.github.io" width="22px" src="https://www.svgrepo.com/show/75635/link.svg" />][website]
+[<img align="left" alt="Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
+[<img align="left" alt="Strava" width="22px" src="https://www.svgrepo.com/show/349518/strava.svg" />][strava]
 
 <br>
 
@@ -53,3 +53,4 @@
 [website]: https://kobe-wulteputte.github.io/
 [instagram]: https://www.instagram.com/kobewulteputte/
 [linkedin]: https://www.linkedin.com/in/kobe-w/
+[strava]: https://www.strava.com/athletes/18349314
