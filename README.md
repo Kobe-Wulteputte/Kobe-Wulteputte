@@ -2,7 +2,7 @@
 
 ## I am a young developer interested in coding the future
 
-- 💼 I'm currently working as a Junior Developer @Orbid
+- 💼 I'm currently working as a Developer @Orbid
 - 🔮 Happy to learn
 - 🎈 Hobbies: ride bikes and meet friends
 
