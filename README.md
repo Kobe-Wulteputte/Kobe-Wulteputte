@@ -1,18 +1,8 @@
 ### 👋 Hi there, I'm Kobe
 
-## I am a young developer interested in coding the future
-
-- 💼 I'm currently working as a Developer @Orbid
-- 🔮 Happy to learn
-- 🎈 Hobbies: ride bikes and meet friends
-
-
 ### Connect
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
 [<img align="left" alt="kobe-wulteputte.github.io" width="22px" src="https://www.svgrepo.com/show/75635/link.svg" />][website]
-[<img align="left" alt="Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />][instagram]
-[<img align="left" alt="Strava" width="22px" src="https://www.svgrepo.com/show/349518/strava.svg" />][strava]
-
 <br>
 
 ### Languages and Tools:
