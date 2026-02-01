@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Kobe
 
+I'm a driven .NET developer with a strong interest in full-stack web development. From thoughtful API design and performant backend solutions to user-friendly frontend, I enjoy contributing to the complete picture. What motivates me is continuous learning, collaboration, and delivering quality. I find satisfaction in solving complex problems, sharing knowledge with colleagues, and building robust, maintainable applications. I see the rapid evolution of technology as an opportunity to continuously improve and gain new insights.
+
 ### Connect
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
 [<img align="left" alt="kobe-wulteputte.github.io" width="22px" src="https://www.svgrepo.com/show/75635/link.svg" />][website]
@@ -12,32 +14,18 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img align="left" alt="spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img align="left" alt="photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-<img align="left" alt="wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
 
 <br>
 <br>
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kobe-wulteputte&show_icons=true&hide_border=true" />
-
-</details>
-
 
 <br>
 <br>
 
 [website]: https://kobe-wulteputte.github.io/
-[instagram]: https://www.instagram.com/kobewulteputte/
 [linkedin]: https://www.linkedin.com/in/kobe-w/
-[strava]: https://www.strava.com/athletes/18349314
