@@ -27,5 +27,5 @@ I'm a driven .NET developer with a strong interest in full-stack web development
 <br>
 <br>
 
-[website]: https://kobe-wulteputte.github.io/
+[website]: http://kobe-wulteputte.github.io/?utm_source=github+page&utm_medium=web
 [linkedin]: https://www.linkedin.com/in/kobe-w/
